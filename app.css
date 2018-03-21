@@ -14,3 +14,8 @@ td:nth-of-type(2) {
 thead tr td {
 	border-bottom: 2px solid blue;
 }
+
+.modal-header {
+	text-align: center;
+}
+
